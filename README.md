@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! I'm Viviann 👋 | ¡Hola! Soy Viviann
 
-<!--
-**viviann1916-glitch/viviann1916-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a continuous learner exploring the world of digital tools and technology. | Soy una aprendiz constante explorando el mundo de las herramientas digitales y la tecnología.
 
-Here are some ideas to get you started:
+### 🚀 About Me | Sobre mí
+- 🔭 **EN:** I’m currently learning how to use **GitHub** and managing digital workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **ES:** Actualmente estoy aprendiendo a usar **GitHub** y a gestionar flujos de trabajo digitales.
+  
+- 🌱 **EN:** I’m focused on professional growth and expanding my digital skills.
+
+- 🌱 **ES:** Estoy enfocada en el crecimiento profesional y en expandir mis habilidades digitales.
+
+- 🤝 **EN:** I'm part of the **Goodwall** community.
+
+- 🤝 **ES:** Formo parte de la comunidad de **Goodwall**.
+
+### ⚡ Fun Fact | Dato curioso
+I believe that being organized and proactive is the key to success! | ¡Creo que ser organizada y proactiva es la clave del éxito!
+
+---
+*Feel free to check out my journey! | ¡Siéntete libre de seguir mi camino!*
+
+
+
+
